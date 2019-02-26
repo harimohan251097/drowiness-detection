@@ -1,1 +1,0 @@
- python E://software//study//redhatproject//main.py --shape-predictor E://software//study//redhatproject//shape_predictor_68_face_landmarks.dat --alarm E://software//study//redhatproject//alarm.wav
